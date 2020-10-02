@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Hacktoberfest 2020 - Starter Project
 
-You can use the [editor on GitHub](https://github.com/azanbinzahid/hacktoberfest/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. Use this project to make your first contribution to an open source project on GitHub. This project is setup so you can practice and replicate on real-world projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See Contributions:
+* [https://azanbinzahid.github.io/hacktoberfest/](https://azanbinzahid.github.io/hacktoberfest/)
+* [https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS](https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS)
 
-### Markdown
+## How to contribute to this project
+Here are 2 easy ways to contribute to this project:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Add your stats to the `CONTRIBUTORS.md` file
+* Add a stats page to the `2020` directory
+
+Choose one or both, make a pull request for your work and wait for it to be merged!
+
+## Getting started
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork down to your local machine
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+git clone https://github.com/azanbinzahid/hacktoberfest.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Create a branch
 
-### Jekyll Themes
+```markdown
+git checkout -b branch-name
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azanbinzahid/hacktoberfest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Make your changes (choose from any task below)
+* Commit and push
 
-### Support or Contact
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__ if you had fun!
+
+## Choose from these tasks
+### 1. Add your stats on new line
+Add your stats to the `CONTRIBUTORS.md` file using the below convention:
+
+```
+[![YOUR_NAME's github stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME)](https://github.com/YOUR-GITHUB-USERNAME)
+```
+
+### 2. Add a seprate stats page
+Add a `YOUR-GITHUB-USERNAME.md` file to the `2020` directory. Use following template:
+
+```
+[![YOUR_NAME's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME)](https://github.com/YOUR_GITHUB_USERNAME)
+```
+
+## View your stats after merge
+Navigate to following to see your stats after PR approve: 
+* [https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS](https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS) 
+* [https://azanbinzahid.github.io/hacktoberfest/2020/YOUR_GITHUB_USERNAME](https://azanbinzahid.github.io/hacktoberfest/2020/YOUR_GITHUB_USERNAME) 
+
+## Acknowledgement
+We are using github stats card provided by [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+## Bonus
+Try out different themes in stats card 
