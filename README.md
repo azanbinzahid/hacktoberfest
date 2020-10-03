@@ -26,6 +26,11 @@ Choose one or both, make a pull request for your work and wait for it to be merg
 ```markdown
 git clone https://github.com/azanbinzahid/hacktoberfest.git
 ```
+* Go into the hacktoberfest folder
+
+```markdown
+cd hacktoberfest
+```
 
 * Create a branch
 
