@@ -4,6 +4,7 @@
 
 Project Site:
 * [https://azanbinzahid.github.io/hacktoberfest/](https://azanbinzahid.github.io/hacktoberfest/)  
+
 See Contributions:
 * [https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS](https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS)
 
@@ -73,5 +74,6 @@ We are using github stats card provided by [https://github.com/anuraghazra/githu
 ## Bonus
 Try out different themes in stats card 
 
-> Disclaimer: Your PRs to this repo may not count towards Hactoberfest actual prize, however it is very important to start practicing .  
+## Disclaimer
+Your PRs to this repo may not count towards Hactoberfest actual prize, however it is very important to start practicing .  
 
