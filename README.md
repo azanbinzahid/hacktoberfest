@@ -1,14 +1,19 @@
-# Hacktoberfest 2020 - Starter Project
+# Hacktoberfest 2020 - Starter/Practice Project
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. Use this project to make your first contribution to an open source project on GitHub. This project is setup so you can practice and replicate on real-world projects. 
 
-See Contributions:
+Project Site:
 * [https://azanbinzahid.github.io/hacktoberfest/](https://azanbinzahid.github.io/hacktoberfest/)
+
+See Contributions:
 * [https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS](https://azanbinzahid.github.io/hacktoberfest/CONTRIBUTORS)
+
+> Disclaimer: Your PRs to this repo may not count towards Hactoberfest actual prize, however it is very important to start practicing .  
 
 ## How to contribute to this project
 Here are 2 easy ways to contribute to this project:
 
+* __Star this repository__ if you are learning new thing!
 * Add your stats to the `CONTRIBUTORS.md` file
 * Add a stats page to the `2020` directory
 
@@ -39,7 +44,6 @@ git push origin branch-name
 
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
 
 ## Choose from these tasks
 ### 1. Add your stats on new line
