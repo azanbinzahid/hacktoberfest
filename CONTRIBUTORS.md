@@ -3,3 +3,4 @@
 [![Ahmet's github stats](https://github-readme-stats.vercel.app/api?username=asotronot)](https://github.com/asotronot)
 [![Asim's github stats](https://github-readme-stats.vercel.app/api?username=mrasimzahid)](https://github.com/mrasimzahid)
 [![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=siddhantparadox)](https://github.com/siddhantparadox)
+[![ZamranxD's github stats](https://github-readme-stats.vercel.app/api?username=ZamranxD)](https://github.com/ZamranxD)
