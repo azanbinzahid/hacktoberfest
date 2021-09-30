@@ -1,6 +1,7 @@
 # Hacktoberfest 2020 - Starter/Practice Project
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. Use this project to make your first contribution to an open source project on GitHub. This project is setup so you can practice and replicate on real-world projects. 
+hey
 
 Project Site:
 * [https://azanbinzahid.github.io/hacktoberfest/](https://azanbinzahid.github.io/hacktoberfest/)  
